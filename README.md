@@ -1,2 +1,3 @@
 # bitmap
-simple bitmap implementation
+simple [bitmap](https://blog.ningzio.com/posts/bitmap/) implementation
+

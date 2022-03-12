@@ -1,3 +1,4 @@
-# bitmap
-simple [bitmap](https://blog.ningzio.com/posts/bitmap/) implementation
+# algorithm
+
+[bitmap](https://blog.ningzio.com/posts/bitmap/) implementation
 
